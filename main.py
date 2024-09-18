@@ -48,8 +48,8 @@ def track_mood() -> tuple:
     return mood_changed, current_mood
 
 def main():
-    st.set_page_config(page_title="Mental Health Chatbot", page_icon="🤖")
-    st.title("Mental Health Support Chatbot")
+    st.set_page_config(page_title="We Help <3", page_icon="🤖")
+    st.title("We Support Bot")
 
     api_key = get_api_key()
     if not api_key:
