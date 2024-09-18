@@ -1,0 +1,6 @@
+streamlit==1.24.0
+spacy==3.5.3
+google-generativeai==0.1.0
+streamlit-chat==0.0.2.2
+pandas==1.5.3
+python-dotenv==1.0.0
