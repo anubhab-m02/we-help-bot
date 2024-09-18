@@ -16,8 +16,8 @@ We Support Bot is a mental health support chatbot built with Streamlit and power
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/we-support-bot.git
-   cd we-support-bot
+   git clone https://github.com/anubhab-m02/we-support-ai-bot
+   cd we-support-ai-bot
    ```
 
 2. Install the required dependencies:
